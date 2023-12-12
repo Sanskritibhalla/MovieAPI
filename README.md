@@ -1,15 +1,18 @@
 # MovieAPI
 
 Introduction
+
 A full-stack movie review app with a backend in Java (Spring Boot), a frontend in JavaScript (React), and a MongoDB database.
 
+
 Technologies
+
 Backend: Java, Spring Boot, JUnit
 Frontend: JavaScript, React, JSX, CSS
 Database: MongoDB
 
-Scripts Avaliable
-In the project directory, you can run:
+
+Scripts Available
 
 npm start
 Runs the app in the development mode.
