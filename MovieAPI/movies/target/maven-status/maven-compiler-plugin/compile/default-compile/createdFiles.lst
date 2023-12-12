@@ -1,0 +1,10 @@
+com\sana\movies\Movie\MovieService.class
+com\sana\movies\MoviesApplication.class
+com\sana\movies\MoviesApplication$1.class
+com\sana\movies\Movie\MovieController.class
+com\sana\movies\Movie\Review.class
+com\sana\movies\Movie\ReviewRepository.class
+com\sana\movies\Movie\Movie.class
+com\sana\movies\Movie\MovieRepository.class
+com\sana\movies\Movie\ReviewController.class
+com\sana\movies\Movie\ReviewService.class
