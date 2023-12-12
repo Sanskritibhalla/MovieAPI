@@ -5,11 +5,15 @@
 A full-stack movie review app with a backend in Java (Spring Boot), a frontend in JavaScript (React), and a MongoDB database.
 
 
+
+
 *Technological Stack*
 
 -Backend: Java, Spring Boot, JUnit
 -Frontend: JavaScript, React, JSX, CSS
 -Database: MongoDB
+
+
 
 
 *Scripts Available*
